@@ -17,17 +17,15 @@ const Cards = () => {
 							alt="..."
 						/>
 						<div className="card-body">
-							<h5 className="card-title">Card title</h5>
+							<h5 className="card-title">Lorem Picsum</h5>
 							<p className="card-text">
-								This is a wider card with supporting text below
-								as a natural lead-in to additional content. This
-								content is a little bit longer.
+								Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto nesciunt quidem corrupti, provident sequi optio aliquid fugiat numquam quis quisquam perspiciatis sunt, beatae ut sapiente expedita voluptatem consequuntur? Nesciunt, voluptatibus.
 							</p>
 						</div>
 						<div className="card-footer">
 							<a
 								className="btn btn-primary btn-lg"
-								href="#"
+								href="https://picsum.photos/"
 								role="button">
 								Find Out More!
 							</a>
@@ -42,16 +40,15 @@ const Cards = () => {
 							alt="..."
 						/>
 						<div className="card-body">
-							<h5 className="card-title">Card title</h5>
+							<h5 className="card-title">Lorem Picsum</h5>
 							<p className="card-text">
-								This card has supporting text below as a natural
-								lead-in to additional content.
+								Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ex totam assumenda illo ullam saepe. Nobis quod animi maxime explicabo incidunt iusto perspiciatis quae aperiam, sed earum reiciendis eum obcaecati.
 							</p>
 						</div>
 						<div className="card-footer">
 							<a
 								className="btn btn-primary btn-lg"
-								href="#"
+								href="https://picsum.photos/"
 								role="button">
 								Find Out More!
 							</a>
@@ -66,18 +63,15 @@ const Cards = () => {
 							alt="..."
 						/>
 						<div className="card-body">
-							<h5 className="card-title">Card title</h5>
+							<h5 className="card-title">Lorem Picsum</h5>
 							<p className="card-text">
-								This is a wider card with supporting text below
-								as a natural lead-in to additional content. This
-								card has even longer content than the first to
-								show that equal height action.
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex blanditiis necessitatibus cum voluptate, unde assumenda ea odit at quis excepturi consequatur nulla facilis distinctio voluptatem quia, qui eos suscipit debitis.
 							</p>
 						</div>
 						<div className="card-footer">
 							<a
 								className="btn btn-primary btn-lg"
-								href="#"
+								href="https://picsum.photos/"
 								role="button">
 								Find Out More!
 							</a>
@@ -92,18 +86,15 @@ const Cards = () => {
 							alt="..."
 						/>
 						<div className="card-body">
-							<h5 className="card-title">Card title</h5>
+							<h5 className="card-title">Lorem Picsum</h5>
 							<p className="card-text">
-								This is a wider card with supporting text below
-								as a natural lead-in to additional content. This
-								card has even longer content than the first to
-								show that equal height action.
+								Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit doloribus provident pariatur corrupti sunt veniam praesentium! Numquam natus eligendi eos rerum earum, ullam laborum esse, dolorem nihil, quam possimus eaque.
 							</p>
 						</div>
 						<div className="card-footer">
 							<a
 								className="btn btn-primary btn-lg"
-								href="#"
+								href="https://picsum.photos/"
 								role="button">
 								Find Out More!
 							</a>
