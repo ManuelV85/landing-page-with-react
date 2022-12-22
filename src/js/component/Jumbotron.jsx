@@ -7,7 +7,7 @@ const Jumbotron = () => {
 			<p className="lead">
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo eum eveniet amet error cumque. Deleniti ut culpa eum, aut nisi odio accusantium dignissimos corporis hic recusandae, veritatis minima voluptatem. Aliquam.
 			</p>
-			<a className="btn btn-primary btn-lg" href="#" role="button">
+			<a className="btn btn-primary btn-lg" href="https://picsum.photos/" role="button">
 				Call to action!
 			</a>
 		</div>
